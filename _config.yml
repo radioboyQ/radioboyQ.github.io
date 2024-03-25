@@ -1,3 +1,4 @@
 theme: jekyll-theme-hacker
 title: CodeLineNetworks
 description: A route towards our future for security via preparation and vulnerablity management
+show_downloads: false
